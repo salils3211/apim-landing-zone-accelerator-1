@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmUsername": {
-            "value": "ENTERUSERNAME"
+            "value": "testuser"
         },
         "vmPassword": {
-            "value": "ENTERPASSWORD"
+            "value": "Malai1tuch!@"
         },
         "accountName": {
-            "value": "https://dev.azure.com/ORGNAME OR github.com/ORGUSERNAME OR none"
+            "value": "github.com/salils3211"
         },
         "personalAccessToken": {
             "value": "ENTERPAT"
